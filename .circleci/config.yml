@@ -1,5 +1,5 @@
 version: 2.1
-# Use a package of configuration called an orb.
+
 jobs:
   create_infrastructure: 
       docker:
